@@ -2,7 +2,15 @@ section:not(:last-of-type){
     border-bottom: solid 1px black;
 }
 /* début exo 01 les_hover_01 */
+.bg-color {
+    height: 150px;
+    width: 150px;
+    background-color: lightblue;
+}
 
+.bg-color:hover {
+    background-color: purple;
+}
 /* fin exo 01 les_hover_01 */
 
 
