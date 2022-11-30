@@ -163,12 +163,13 @@ section:not(:last-of-type){
 .transition_10:active {
     background-color: orange;
     border-radius: 50%;
-    margin-left: 80%;
+    margin-left: 70%;
 }
 
 .transition_10:active .transition_10_intrus {
     background-color: blue;
     border-radius: 0%;
+    margin: 90%;
 }
 /* fin exo 10 les transitions */
 
