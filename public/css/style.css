@@ -169,7 +169,7 @@ section:not(:last-of-type){
 .transition_10:active .transition_10_intrus {
     background-color: blue;
     border-radius: 0%;
-    margin: 90%;
+    margin-left: 90%;
 }
 /* fin exo 10 les transitions */
 
