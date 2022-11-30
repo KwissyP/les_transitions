@@ -148,7 +148,7 @@ section:not(:last-of-type){
     background-color: yellow;
     height: 150px;
     width: 150px;
-    transition: 3s;
+    transition: 5s;
 }
 
 .transition_10_intrus {
@@ -157,7 +157,7 @@ section:not(:last-of-type){
     width: 20%;
     border-radius: 50%;
     transition: 3s;
-    transition-timing-function: linear;
+    transition-timing-function: ease-out;
 }
 
 .transition_10:active {
