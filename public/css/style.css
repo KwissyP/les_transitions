@@ -34,6 +34,7 @@ section:not(:last-of-type){
 .border_color:focus {
     border: 1px solid blue;
     border-radius: 10px;
+    outline: none;
 }
 
 /* fin exo 03 les_focus_03 */
