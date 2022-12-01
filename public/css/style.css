@@ -1,6 +1,10 @@
 section:not(:last-of-type){
     border-bottom: solid 1px black;
 }
+
+section {
+    padding-bottom: 50px;
+}
 /* début exo 01 les_hover_01 */
 .bg-color {
     height: 150px;
